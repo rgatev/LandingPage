@@ -1,16 +1,29 @@
 header {
   background-color: #1f2937;
+  width: auto;
+  height: auto;
   color: white;
 }
+
+h1 {
+  font-size: 48px;
+  font-weight: bold;
+}
+
 .subtext {
-  color: whitesmoke;
+  font-size: 18px;
+  color: #e5e7eb;
 }
 
 .preview {
   /* margin: 700px 300px 150px; */
+  margin-left: 400px;
   width: 50%;
   height: 250px;
 }
 .header-button {
   background-color: #3b82f6;
+}
+a {
+  color: #e5e7eb;
 }
