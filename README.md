@@ -1,3 +1,3 @@
 # LandingPage
 
-Structuring the page with html
+Completed my first simple Landing Page
